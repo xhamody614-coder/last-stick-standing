@@ -1,0 +1,8 @@
+{
+  "name": "last-stick-standing",
+  "version": "1.0.0",
+  "description": "Online 4-player stick-figure brawler with upgrade cards",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
